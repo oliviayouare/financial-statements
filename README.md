@@ -22,7 +22,7 @@ week03_How are Financial Statements Prepared?
 - [x] 3.3 Output, Sales and Gross Profit
 - [x] 3.4 Recording Sales Activities in Financial Statements
 - [x] 3.5 Recording Expenses and R&D Activities in Financial Statements
-- [ ] 3.6 Recording Taxes, Profits, and Profit Distributions in Financial Statements
+- [x] 3.6 Recording Taxes, Profits, and Profit Distributions in Financial Statements
 
 week04_Logic of Financial Statements
 
