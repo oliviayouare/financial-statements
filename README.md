@@ -2,9 +2,9 @@
 [财务分析与决策](https://courses.edx.org/courses/course-v1:TsinghuaX+80512073x+1T2016/course/)Financial Analysis and Decision Making
 
 
--[ ]1.2 What is Balance Sheet?
--[ ]1.3 Assets Items
--[ ]1.4 The Structure of Assets
+[ ]1.2 What is Balance Sheet?
+[ ]1.3 Assets Items
+[ ]1.4 The Structure of Assets
 -[ ]1.5 Value Recognition of Assets
 
 week02_The Source of Fund and the Generation of Profits
