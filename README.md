@@ -26,10 +26,10 @@ week03_How are Financial Statements Prepared?
 
 week04_Logic of Financial Statements
 
-- [ ] 4.1 The Relationship Between Balance Sheet and Income Statement
-- [ ] 4.2 Getting to Know Cash Flow Statement
-- [ ] 4.3 The Function of Cash Flow Statement
-- [ ] 4.4 The Generation of Cash Flow Statement
+- [x] 4.1 The Relationship Between Balance Sheet and Income Statement
+- [x] 4.2 Getting to Know Cash Flow Statement
+- [x] 4.3 The Function of Cash Flow Statement
+- [x] 4.4 The Generation of Cash Flow Statement
 - [ ] 4.5 The Logic of Financial Statements
 - [ ] 4.6 Roles of the Three Statements
 
