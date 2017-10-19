@@ -15,7 +15,7 @@ week02_The Source of Fund and the Generation of Profits
 - [x] 2.4 What is Income Statement?
 - [x] 2.5 Summary of Income Statement
 
-week03_How are Financial Statements Prepared?
+week03_How are Financial Statements Prepared?-1018
 
 - [x] 3.1 Recording the Establishment and Preparation of an Enterprise in Financial Statements
 - [x] 3.2 Recording Procurement and Manufacturing Activities in Financial Statements
@@ -24,7 +24,7 @@ week03_How are Financial Statements Prepared?
 - [x] 3.5 Recording Expenses and R&D Activities in Financial Statements
 - [x] 3.6 Recording Taxes, Profits, and Profit Distributions in Financial Statements
 
-week04_Logic of Financial Statements
+week04_Logic of Financial Statements-1019
 
 - [x] 4.1 The Relationship Between Balance Sheet and Income Statement
 - [x] 4.2 Getting to Know Cash Flow Statement
