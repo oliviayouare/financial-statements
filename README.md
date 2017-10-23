@@ -37,8 +37,8 @@ week04_Logic of Financial Statements-1019
 
 week05_Basics of Financial Analysis
 
-- [ ] 5.1 Common-size Analysis
-- [ ] 5.2 Profitability Analysis
+- [x] 5.1 Common-size Analysis
+- [x] 5.2 Profitability Analysis
 - [ ] 5.3 Operating Efficiency Analysis
 - [ ] 5.4 Short-term Solvency Analysis
 - [ ] 5.5 Long-term Solvency Analysis
