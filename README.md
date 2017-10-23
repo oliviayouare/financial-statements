@@ -34,6 +34,7 @@ week04_Logic of Financial Statements-1019
 - [x] 4.6 Roles of the Three Statements
 对现金流量表部分要素的组成不是很清楚，以及表外负债、或有负债如何判断呢？
 
+
 week05_Basics of Financial Analysis
 
 - [ ] 5.1 Common-size Analysis
