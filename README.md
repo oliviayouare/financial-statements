@@ -30,8 +30,9 @@ week04_Logic of Financial Statements-1019
 - [x] 4.2 Getting to Know Cash Flow Statement
 - [x] 4.3 The Function of Cash Flow Statement
 - [x] 4.4 The Generation of Cash Flow Statement
-- [ ] 4.5 The Logic of Financial Statements
-- [ ] 4.6 Roles of the Three Statements
+- [x] 4.5 The Logic of Financial Statements
+- [x] 4.6 Roles of the Three Statements
+对现金流量表部分要素的组成不是很清楚，以及表外负债、或有负债如何判断呢？
 
 week05_Basics of Financial Analysis
 
