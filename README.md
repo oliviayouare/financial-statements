@@ -42,6 +42,15 @@ week05_Basics of Financial Analysis
 - [x] 5.3 Operating Efficiency Analysis
 - [x] 5.4 Short-term Solvency Analysis
 - [x] 5.5 Long-term Solvency Analysis
+这一章测试题全对，但是在借助笔记的情况下。对于几个关键的概念算法记得不牢。
+* **gross profit margin（毛利润率）=gross profit/operating income
+* turnover ratio（周转率）=operating income/some asset,for example total assets turnover ratio=operating income/total assets
+* except for inventory turnover ratio=operating cost/inventory
+* Current ratio=current assets/current liabilities
+* quick ratio=(current assets-inventory)/current liabilities
+* Interest coverage ratio=[net profit+income tax+interest expenses（ie financial expenses)]/interest expenses
+* Liability-to-asset ratio=total liabilities/total assets
+* Return on total assets=net profit/total assets**    
 
 week06_Business, Strategy and Financial Statement
 
