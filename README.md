@@ -7,7 +7,7 @@
 - [x] 1.4 The Structure of Assets
 - [x] 1.5 Value Recognition of Assets
 
-week02_The Source of Fund and the Generation of Profits
+#### week02_The Source of Fund and the Generation of Profits
 
 - [x] 2.1 Liability Items
 - [x] 2.2 Shareholders’ Equity Items
