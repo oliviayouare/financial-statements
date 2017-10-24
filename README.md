@@ -40,8 +40,8 @@ week05_Basics of Financial Analysis
 - [x] 5.1 Common-size Analysis
 - [x] 5.2 Profitability Analysis
 - [x] 5.3 Operating Efficiency Analysis
-- [ ] 5.4 Short-term Solvency Analysis
-- [ ] 5.5 Long-term Solvency Analysis
+- [x] 5.4 Short-term Solvency Analysis
+- [x] 5.5 Long-term Solvency Analysis
 
 week06_Business, Strategy and Financial Statement
 
