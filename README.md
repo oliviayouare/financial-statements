@@ -46,11 +46,11 @@ week05_Basics of Financial Analysis
 * **gross profit margin（毛利润率）=gross profit/operating income**
 * **turnover ratio（周转率）=operating income/some asset,for example total assets turnover ratio=operating income/total assets**
 * **except for inventory turnover ratio=operating cost/inventory**
-* **Current ratio=current assets/current liabilities**
-* **quick ratio=(current assets-inventory)/current liabilities**
-* **Interest coverage ratio=[net profit+income tax+interest expenses（ie financial expenses)]/interest expenses**
-* **Liability-to-asset ratio=total liabilities/total assets**
-* **Return on total assets=net profit/total assets**    
+* **Current ratio（流动比率）=current assets/current liabilities**
+* **quick ratio（速动比率）=(current assets-inventory)/current liabilities**
+* **Interest coverage ratio（利息覆盖倍数）=[net profit+income tax+interest expenses（ie financial expenses)]/interest expenses**
+* **Liability-to-asset ratio（资产负债率，即杠杆率）=total liabilities/total assets**
+* **Return on total assets（回报率）=net profit/total assets**    
 
 week06_Business, Strategy and Financial Statement
 
