@@ -54,12 +54,12 @@ week05_Basics of Financial Analysis
 
 week06_Business, Strategy and Financial Statement
 
-- [ ] 6.1 Factors Affect Financial Data
-- [ ] 6.2 An Introduction to the Paper Manufacturing and Household Appliance Industry
-- [ ] 6.3 Financial Data and Industry: Comparisons between Paper Manufacturing and Household Appliance Industry
-- [ ] 6.4 Financial Data and Industry: Time-series Analysis within the Paper Manufacturing Industry
-- [ ] 6.5 Financial Data and Industry: Time-series Analysis within the Household Appliance Industry
-- [ ] 6.6 Financial Data and Competitive Strategy
+- [x] 6.1 Factors Affect Financial Data
+- [x] 6.2 An Introduction to the Paper Manufacturing and Household Appliance Industry
+- [x] 6.3 Financial Data and Industry: Comparisons between Paper Manufacturing and Household Appliance Industry
+- [x] 6.4 Financial Data and Industry: Time-series Analysis within the Paper Manufacturing Industry
+- [x] 6.5 Financial Data and Industry: Time-series Analysis within the Household Appliance Industry
+- [x] 6.6 Financial Data and Competitive Strategy
 
 week07_the Objective of Financial Analysis: What Is a Good Business Like
 
