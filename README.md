@@ -78,12 +78,12 @@ week07_the Objective of Financial Analysis: What Is a Good Business Like
 
 week08_Case Analysis of a Paper Manufacturing Company
 
-- [ ] 8.1 Basic Information of the Company
-- [ ] 8.2 Cost Analysis
-- [ ] 8.3 Expense Analysis
-- [ ] 8.4 Turnover Analysis
-- [ ] 8.5 Summary of the Current Status of the Company
-- [ ] 8.6 Future Prospects of the Company
+- [x] 8.1 Basic Information of the Company
+- [x] 8.2 Cost Analysis
+- [x] 8.3 Expense Analysis
+- [x] 8.4 Turnover Analysis
+- [x] 8.5 Summary of the Current Status of the Company
+- [x] 8.6 Future Prospects of the Company
 
 week09_Cash Flow Analysis
 
