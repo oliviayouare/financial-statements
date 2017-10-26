@@ -72,7 +72,17 @@ week07_the Objective of Financial Analysis: What Is a Good Business Like
 *invested capital=liability with the interest + shareholder's equity*
 
 - [x] 7.2 Economic Profit
-- [x] 7.3 Weighted Average Cost of Capital
+
+**economic profit=excessive return(%) x invested capital** 
+**excessive return(%)= return on invested capital(%) - cost of invested capital(%)[ie WACC, weighted average cost of invested capital**
+
+**- [x] 7.3 Weighted Average Cost of Capital]**
+
+**WACC%=liability with interest as percentage of total invested capital% x interest rate x (1-tax rate)%**
+                                    +
+                                    
+      **shareholder's equity as percentage of total invested capital% x average level of profitability in industry%**
+                                    
 - [x] 7.4 What Is Making Money?
 - [x] 7.5 How to Make Money: the Basic Structure of Financial Analysis
 
