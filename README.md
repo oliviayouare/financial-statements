@@ -65,9 +65,11 @@ week07_the Objective of Financial Analysis: What Is a Good Business Like
 
 - [x] 7.1 What Is a Good Business Like?
 
-*投资资本回报率return on invested capital=net operating profit after tax/invested capital
-net operating profit after tax=net profit + financial expenses
-invested capital=liability with the interest + shareholder's equity*
+*** 投资资本回报率return on invested capital=net operating profit after tax/invested capital***
+
+*net operating profit after tax=net profit + financial expenses*
+
+*invested capital=liability with the interest + shareholder's equity*
 
 - [ ] 7.2 Economic Profit
 - [ ] 7.3 Weighted Average Cost of Capital
