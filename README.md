@@ -73,8 +73,8 @@ week07_the Objective of Financial Analysis: What Is a Good Business Like
 
 - [x] 7.2 Economic Profit
 - [x] 7.3 Weighted Average Cost of Capital
-- [ ] 7.4 What Is Making Money?
-- [ ] 7.5 How to Make Money: the Basic Structure of Financial Analysis
+- [x] 7.4 What Is Making Money?
+- [x] 7.5 How to Make Money: the Basic Structure of Financial Analysis
 
 week08_Case Analysis of a Paper Manufacturing Company
 
