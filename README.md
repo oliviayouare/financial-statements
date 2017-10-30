@@ -97,12 +97,15 @@ week08_Case Analysis of a Paper Manufacturing Company
 
 week09_Cash Flow Analysis
 
-- [ ] 9.1 What Do Cash Inflow and Outflow Mean? (1)
-- [ ] 9.2 What Do Cash Inflow and Outflow Mean? (2)
-- [ ] 9.3 Reasons for the Difference between Profit and Cash Flow
-- [ ] 9.4 Accounting Analysis about the Relative Importance of Profit and Cash Flow
-- [ ] 9.5 Case Study
-- [ ] 9.6 Summary and Implication of the Case
+- [x] 9.1 What Do Cash Inflow and Outflow Mean? (1)
+- [x] 9.2 What Do Cash Inflow and Outflow Mean? (2)
+- [x] 9.3 Reasons for the Difference between Profit and Cash Flow
+
+**net profit -  net cash flow = change in non-cash assets**
+
+- [x] 9.4 Accounting Analysis about the Relative Importance of Profit and Cash Flow
+- [x] 9.5 Case Study
+- [x] 9.6 Summary and Implication of the Case
 
 week10_Practical Application of Financial Analysis and Decision Making
 
